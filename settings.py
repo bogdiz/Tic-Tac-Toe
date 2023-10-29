@@ -1,0 +1,2 @@
+WIDTH = 680
+HEIGHT = 600
